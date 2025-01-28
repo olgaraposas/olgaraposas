@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @olgaraposas
-- 👀 I’m interested in coding recently
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning HTML, CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me olgaraposas1@gmail.com
